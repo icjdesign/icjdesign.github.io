@@ -1,0 +1,74 @@
+        /*GENERAL STYLES*/
+    
+    body {
+        background-color: #CCCCCC;
+        margin: auto;
+        width: 832px;
+    }
+    
+    p {
+        font-family: times;
+    }
+    
+    H1 {
+        text-align: center;
+        font-family: arial;
+        font-size: 3.0em;
+    }
+    
+    H2 {
+        position: left;
+        font-family: arial;
+        font-size: 2.0em;
+    }
+    
+    H3 {
+        position: left;
+        font-family: arial;
+        text-transform: uppercase;
+    }
+    
+    nav {
+        text-align: center;
+        font-family: arial;
+        font-weight: bold;
+    }
+    
+    hr.style1 {
+        border-top: 6px solid #000000;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    hr.style2 {
+        border-top: 1px double #000000;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /*ABOUT ME STYLES*/
+    
+    body {
+        <style type="text/css"> H1 {
+            position: center;
+            font-family: arial;
+        }
+        H2 {
+            position: left;
+            font-family: arial;
+        }
+        H4 {
+            position: left;
+            text-decoration: initial;
+            font-family: arial;
+        }
+        /*PORTFOLIO STYLES*/
+        H1 {
+            position: center;
+            font-family: arial;
+            color: #FFFF00;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
